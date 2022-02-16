@@ -1,2 +1,2 @@
-# rpg_zaszlohaboru
-A Zászlóháború győztes vesztesei
+# A Zászlóháború győztes vesztesei
+
