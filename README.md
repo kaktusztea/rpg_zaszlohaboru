@@ -3,5 +3,5 @@
 * [Háttér, az aquirok](./Hatter.md)
 * NJK
   * ["Begyűjtők" rabszolgavadász csapat](./NJK/Begyujto_dezertorvadaszok.odt)
-  * [Cygnia, a boszorkány](./NJK/Cygnia.gazda.lanya.boszi.odt)
+  * [Cygnia, a boszorkány](./NJK/Cygnia.gazda.lanya.boszi.md)
   * [Farkasok](./NJK/Farkasok.odt)
