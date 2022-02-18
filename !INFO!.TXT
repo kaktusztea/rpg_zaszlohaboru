@@ -1,2 +1,0 @@
-A txt file-ok importálásra kerültek Cherrytree-be (RPG.ctb).
-A file-ok átkerültek az ARCHIV mappába, tovább nem módosulnak.
