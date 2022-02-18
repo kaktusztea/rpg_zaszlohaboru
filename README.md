@@ -8,8 +8,8 @@
 
 ---
 ## 7. alkalom terv
-* Attila páncéljának MGT-jét növelni! (sérülések hatása)
-* Attila pajzsa nagyon rossz állapotban (csökkentett VÉ, MGT+ ?)      → karakteralkotóban is kezelni külön az egyes elemek sérülését. Külön fül a páncélnak!
+* Dyzyg lovag páncéljának MGT-jét növelni! (sérülések hatása)
+* Dyzyg lovag  pajzsa nagyon rossz állapotban (csökkentett VÉ, MGT+ ?)      → karakteralkotóban is kezelni külön az egyes elemek sérülését. Külön fül a páncélnak!
 * 5000-es városka térkép keresése (Amlois város számára)
 
 ### Cselekmény terv
